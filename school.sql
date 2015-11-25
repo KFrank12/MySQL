@@ -94,6 +94,7 @@ INSERT INTO `school`.`address` (`ad_ID`, `ad_street`, `ad_number`, `ad_city`, `a
 INSERT INTO `school`.`address` (`ad_ID`, `ad_street`, `ad_number`, `ad_city`, `ad_postcode`) VALUES (4, 'Hauptstraße', '121', 'Karlsruhe', 76133);
 INSERT INTO `school`.`address` (`ad_ID`, `ad_street`, `ad_number`, `ad_city`, `ad_postcode`) VALUES (5, 'Janstraße', '2', 'Karlsruhe', 76132);
 INSERT INTO `school`.`address` (`ad_ID`, `ad_street`, `ad_number`, `ad_city`, `ad_postcode`) VALUES (6, 'Bruchsaler Weg', '21', 'Karlsruhe', 76131);
+INSERT INTO `school`.`address` (`ad_ID`, `ad_street`, `ad_number`, `ad_city`, `ad_postcode`) VALUES (7, 'Hallenstraße', '45', 'Karlsruhe', 76132);
 
 COMMIT;
 
